@@ -8,3 +8,5 @@ This is a list of the members of the Software Development course of the BIS
 Chelu Martin - [Linkedin Profile](https://www.linkedin.com/in/chelu-martin-romera/)
 
 ## Students
+Vicente Hoyos - [Linkedin Profile](https://www.linkedin.com/in/vicente-hoyos-787594124/)
+
